@@ -5,11 +5,11 @@
   <img alt="DY PROOF — find where your system breaks, before production does. Independent technology diagnostics." src="https://github.com/DY-Proof/.github/raw/main/profile/assets/hero-light.svg" width="100%">
 </picture>
 
-**[dy-proof.github.io](https://dy-proof.github.io)** · **[Engagements](https://dy-proof.github.io/#engagements)** · **[The report](https://dy-proof.github.io/#report)** · **[DY Research](https://github.com/DYResearch)** · **[AxonOS](https://github.com/AxonOS-org)** · **[Radar](https://axonos-bci.github.io/axonos-community-radar/)**
+**[Board](https://dy-proof.github.io)** · **[Bench](https://dy-proof.github.io/bench/)** · **[Engagements](https://dy-proof.github.io/#engagements)** · **[The report](https://dy-proof.github.io/#report)** · **[DY Research](https://github.com/DYResearch)** · **[AxonOS](https://github.com/AxonOS-org)** · **[Radar](https://axonos-bci.github.io/axonos-community-radar/)**
 
-[![Site](https://img.shields.io/badge/site-dy--proof.github.io-1f8fae?style=flat-square&labelColor=0d1117)](https://dy-proof.github.io)
-[![Engagements](https://img.shields.io/badge/engagements-from%20%24750-1f8fae?style=flat-square&labelColor=0d1117)](https://dy-proof.github.io/#engagements)
-[![Contact](https://img.shields.io/badge/contact-connect%40axonos.org-8b949e?style=flat-square&labelColor=0d1117)](mailto:connect@axonos.org)
+[![Site](https://img.shields.io/badge/site-dy--proof.github.io-ffffff?style=flat-square&labelColor=000000)](https://dy-proof.github.io)
+[![Engagements](https://img.shields.io/badge/engagements-from%20%24750-ffffff?style=flat-square&labelColor=000000)](https://dy-proof.github.io/#engagements)
+[![Contact](https://img.shields.io/badge/contact-connect%40axonos.org-ffffff?style=flat-square&labelColor=000000)](mailto:connect@axonos.org)
 
 </div>
 
@@ -18,6 +18,11 @@ system stops behaving acceptably — its operating limits and failure boundaries
 and prove it with evidence you can reproduce.
 
 > Don't tell us it works. Let's DY it.
+
+**Two readings of one examination.** **[Board](https://dy-proof.github.io)** is the reading
+for founders, owners and institutional investors: the decision. **[Bench](https://dy-proof.github.io/bench/)**
+is the reading for engineers: the data, printed as terminal output. A knob in the
+navigation switches between them, the way an oscilloscope switches its display.
 
 ---
 
@@ -48,48 +53,34 @@ fail. **[See the specimen →](https://dy-proof.github.io/#report)**
 
 ## DY PROOF or DY Research?
 
-| | The question | The method | It ends in |
-|:--|:--|:--|:--|
-| **DY PROOF** · Prove | Where does the running system stop working? | Produces new evidence: the system examined under controlled load | A documented, reproducible boundary |
-| **DY Research** · Verify | Is what is claimed true? | Reads the evidence that exists: code, tests and proofs | A written verdict |
+| | The question | The method | It ends in | From |
+|:--|:--|:--|:--|:--|
+| **DY PROOF** · Prove | Where does the running system stop working? | Produces new evidence under controlled load | A documented, reproducible boundary | $750 |
+| **DY Research** · Verify | Is what is claimed true? | Reads the evidence that exists: code, tests, proofs | A written verdict | $5,000 |
 
-Different questions, different prices, one standard of evidence. For a deal, the two
-run as one engagement: one scope, one report.
+For a deal, the two run as one engagement: one scope, one report.
 
 ---
 
-## The family
+## The ecosystem
 
-<table>
-<tr>
-<td width="50%" valign="top">
+One house, four layers, one rule: nothing is claimed that cannot be checked.
 
-**Build — [AxonOS](https://github.com/AxonOS-org)**<br>
-The open, deterministic systems layer for brain–computer interfaces.
+```text
+THE DY ENGINEERING ECOSYSTEM
+──────────────────────────────────────────────────────────────────────
+L4   DIAGNOSTICS      DY PROOF       failure-boundary diagnostics   ◀ here
+L3   VERIFICATION     DY Research    due diligence · worst-case timing
+L2   INTELLIGENCE     AxonOS-BCI     the Radar · open neurotech, scored
+L1   INFRASTRUCTURE   AxonOS         deterministic real-time kernel · open
+──────────────────────────────────────────────────────────────────────
+     build ──▶ discover ──▶ verify ──▶ prove
+```
 
-</td>
-<td width="50%" valign="top">
+**[DY Research](https://dyresearch.github.io)** · **[Radar](https://axonos-bci.github.io/axonos-community-radar/)** · **[AxonOS](https://axonos.org)**
 
-**Discover — [Radar](https://axonos-bci.github.io/axonos-community-radar/)**<br>
-A living map of open neurotech, scored from public evidence.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Verify — [DY Research](https://dyresearch.github.io)**<br>
-Technical due diligence: every claim traced to its evidence.
-
-</td>
-<td width="50%" valign="top">
-
-**Prove — [DY PROOF](https://dy-proof.github.io)**<br>
-Where a running system breaks, located and reproduced.
-
-</td>
-</tr>
-</table>
+AxonOS is open infrastructure, built and funded by the house and bound for
+independent foundation governance.
 
 ---
 
@@ -98,7 +89,7 @@ Where a running system breaks, located and reproduced.
 - **Not a certification.** No examination issues or implies qualification under any safety or compliance standard.
 - **Not investment advice.** The findings are technical; the decision stays yours.
 - **Not a warranty.** What you receive is evidence and reasoning, set out so that it can be checked.
-- **Independent.** Belonging to the family never shapes a finding. If a system under examination competes with AxonOS or builds on it, you are told at scoping, before you commit to anything.
+- **Independent.** Belonging to the ecosystem never shapes a finding. If a system under examination competes with AxonOS or builds on it, you are told at scoping, before you commit to anything.
 
 ---
 
