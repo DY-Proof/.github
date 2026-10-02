@@ -10,6 +10,7 @@
 [![Site](https://img.shields.io/badge/site-dy--proof.github.io-ffffff?style=flat-square&labelColor=000000)](https://dy-proof.github.io)
 [![Engagements](https://img.shields.io/badge/engagements-from%20%24750-ffffff?style=flat-square&labelColor=000000)](https://dy-proof.github.io/#engagements)
 [![Contact](https://img.shields.io/badge/contact-connect%40axonos.org-ffffff?style=flat-square&labelColor=000000)](mailto:connect@axonos.org)
+[![AxonOS Radar](https://img.shields.io/badge/AxonOS%20Radar-open%20neurotech%20map-ffffff?style=flat-square&labelColor=000000)](https://axonos-bci.github.io/axonos-community-radar/)
 
 </div>
 
