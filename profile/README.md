@@ -31,16 +31,15 @@ navigation switches between them, the way an oscilloscope switches its display.
 
 Each engagement answers one question, and leads to the next only if you need it.
 
-| Engagement | The question it answers | Price |
-|:--|:--|:--|
-| **Failure Boundary** · 72 hours | Where does one critical workflow stop behaving acceptably? | on request |
-| **System Boundary Map** · 7 working days | How far can the whole system go, and what gives way first? | on request |
-| **Runtime Diagnostics** · 2–3 weeks | Why does it break, and does the fix really move the boundary? | on request |
+| Engagement | The question it answers |
+|:--|:--|
+| **Failure Boundary** · 72 hours | Where does one critical workflow stop behaving acceptably? |
+| **System Boundary Map** · 7 working days | How far can the whole system go, and what gives way first? |
+| **Runtime Diagnostics** · 2–3 weeks | Why does it break, and does the fix really move the boundary? |
 | **Pre-investment examination** · private | Where does the target's system break, before capital depends on it? | scoped with the deal |
 
-The 72-hour fee is credited in full toward the Boundary Map if you continue within
-30 days. Scope and price are agreed in writing; nothing is invoiced until the scope
-is agreed. **[Engagements →](https://dy-proof.github.io/#engagements)** ·
+Everything the 72-hour examination finds carries into the Boundary Map if you
+continue. The scope is agreed in writing; nothing begins until it is. **[Engagements →](https://dy-proof.github.io/#engagements)** ·
 [connect@axonos.org](mailto:connect@axonos.org)
 
 ---
@@ -54,10 +53,10 @@ fail. **[See the specimen →](https://dy-proof.github.io/#report)**
 
 ## DY PROOF or DY Research?
 
-| | The question | The method | It ends in | Price |
+| | The question | The method | It ends in |
 |:--|:--|:--|:--|:--|
-| **DY PROOF** · Prove | Where does the running system stop working? | Produces new evidence under controlled load | A documented, reproducible boundary | on request |
-| **DY Research** · Verify | Is what is claimed true? | Reads the evidence that exists: code, tests, proofs | A written verdict | on request |
+| **DY PROOF** · Prove | Where does the running system stop working? | Produces new evidence under controlled load | A documented, reproducible boundary |
+| **DY Research** · Verify | Is what is claimed true? | Reads the evidence that exists: code, tests, proofs | A written verdict |
 
 For a deal, the two run as one engagement: one scope, one report.
 
